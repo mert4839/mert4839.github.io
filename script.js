@@ -597,12 +597,7 @@ $('#btnCheck').click(function() {
 				$(this).val('');
 			}
       else {
-        window.alert(710 76-Д ОЖДСЫ
-		     Э УАМНЧ ТЫМЙЭ
-		     МКЛЙМД ИЫ ЁЫММА
-		  
-                    f(p) = p + 5 mod 32
-                    f(n) = n + 4 mod 10);
+        window.alert(Visit: https://docs.google.com/document/d/1f6C3ESLl5ufQmNXvL4iTOwLKm8YkRp3iYG8RHfvoYPI/edit);
       } 
 	})
   ;
