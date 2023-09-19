@@ -597,7 +597,7 @@ $('#btnCheck').click(function() {
 				$(this).val('');
 			}
       else {
-        window.alert("Visit: https://docs.google.com/document/d/1f6C3ESLl5ufQmNXvL4iTOwLKm8YkRp3iYG8RHfvoYPI/edit");
+        window.alert("Although you most certainly cheated, please visit this site anyway: https://docs.google.com/document/d/1f6C3ESLl5ufQmNXvL4iTOwLKm8YkRp3iYG8RHfvoYPI/edit");
       } 
 	})
   ;
