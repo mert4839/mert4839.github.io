@@ -597,7 +597,12 @@ $('#btnCheck').click(function() {
 				$(this).val('');
 			}
       else {
-        window.alert("Congratulations! You're not a complete debil. Please visit: Clue #2");
+        window.alert(710 76-Д ОЖДСЫ
+		     Э УАМНЧ ТЫМЙЭ
+		     МКЛЙМД ИЫ ЁЫММА
+		  
+                    f(p) = p + 5 mod 32
+                    f(n) = n + 4 mod 10);
       } 
 	})
   ;
