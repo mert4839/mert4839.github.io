@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knights and Knaves</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Knights and Knaves</h1>
+        <form id="quiz-form">
+            <div class="question">
+                <p>What is Alf?</p>
+                <label>
+                    <input type="radio" name="alf" value="knight">A Knight
+                </label>
+                <label>
+                    <input type="radio" name="alf" value="knave">A Knave
+                </label>
+                <label>
+                    <input type="radio" name="alf" value="impossible">Impossible to Tell
+                </label>
+            </div>
+            <div class="question">
+                <p>What is Beth?</p>
+                <label>
+                    <input type="radio" name="beth" value="knight">A Knight
+                </label>
+                <label>
+                    <input type="radio" name="beth" value="knave">A Knave
+                </label>
+                <label>
+                    <input type="radio" name="beth" value="impossible">Impossible to Tell
+                </label>
+            </div>
+            <button type="button" id="check-answers">Check Answers</button>
+        </form>
+        <div id="result"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
