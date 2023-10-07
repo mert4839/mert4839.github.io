@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const bethAnswer = quizForm.elements["beth"].value;
 
         if (alfAnswer === "knight" && bethAnswer === "knave") {
-            resultDiv.innerHTML = "Hmm... was this arrived at honestly? Send a valid explanation to sab2327@columbia.edu to receive the next clue.";
+            resultDiv.innerHTML = "Hmm... was this arrived at honestly? Send a valid explanation to sab2327@columbia.edu before Monday, October 9th to receive the next clue.";
             quizForm.style.display = "none"; // Hide the quiz form permanently
         } else {
             resultDiv.innerHTML = "Uh oh";
